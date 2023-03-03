@@ -36,7 +36,6 @@
           id="APItoken"
           placeholder="secretKey"
         /><br />
-        <!-- <input type="submit" value="Отправить" /> -->
         <button type="submit" class="btn btn-success">Сохронить</button>
       </form>
     </div>
